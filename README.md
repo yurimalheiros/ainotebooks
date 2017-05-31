@@ -1,7 +1,7 @@
 AI Notebooks
 ============
 
-IPython Notebooks sobre Inteligência Artificial
+Jupyter Notebooks sobre Inteligência Artificial
 
 ## Notebooks disponíveis
 
