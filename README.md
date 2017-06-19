@@ -5,6 +5,8 @@ Jupyter Notebooks sobre Inteligência Artificial
 
 ## Notebooks disponíveis
 
-- [K-Nearest Neighbors (KNN)](https://github.com/yurimalheiros/ai-notebooks/blob/master/knn/knn.ipynb)
+- [Regressão Linear com Gradiente Descendente](https://github.com/yurimalheiros/ai-notebooks/blob/master/ml/gdlinearregression.ipynb)
 
-- [Perplexity](https://github.com/yurimalheiros/ai-notebooks/blob/master/nlp/perplexity.ipynb)
+- [K-Nearest Neighbors (KNN)](https://github.com/yurimalheiros/ai-notebooks/blob/master/ml/knn.ipynb)
+
+- [Perplexidade](https://github.com/yurimalheiros/ai-notebooks/blob/master/nlp/perplexity.ipynb)
