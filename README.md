@@ -9,6 +9,8 @@ Jupyter Notebooks sobre Inteligência Artificial
 
 - [Regressão Linear Múltipla com Descida de Gradiente](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/gdmultiplelinearregression.ipynb)
 
+- [Regressão Polinomial com Descida de Gradiente](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/gdpolynomialregression.ipynb)
+
 - [K-Nearest Neighbors (KNN)](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/knn.ipynb)
 
 - [Perplexidade](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/nlp/perplexity.ipynb)
