@@ -13,6 +13,8 @@ Jupyter Notebooks sobre Inteligência Artificial
 
 - [Regressão Logística](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/gdlogisticregression.ipynb)
 
+- [Naive Bayes](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/naivebayes.ipynb)
+
 - [K-Nearest Neighbors (KNN)](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/knn.ipynb)
 
 - [Perplexidade](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/nlp/perplexity.ipynb)
