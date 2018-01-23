@@ -18,3 +18,8 @@ Jupyter Notebooks sobre Inteligência Artificial
 - [K-Nearest Neighbors (KNN)](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/knn.ipynb)
 
 - [Perplexidade](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/nlp/perplexity.ipynb)
+
+
+## English version
+
+- [Linear Regression](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/en/gdlinearregression.ipynb)
