@@ -17,6 +17,8 @@ Jupyter Notebooks sobre Inteligência Artificial
 
 - [K-Nearest Neighbors (KNN)](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/knn.ipynb)
 
+- [K-means](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/kmeans.ipynb)
+
 - [Principal Component Analysis (PCA)](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/ml/pca.ipynb)
 
 - [Perplexidade](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/nlp/perplexity.ipynb)
