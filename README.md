@@ -23,6 +23,7 @@ Jupyter Notebooks sobre Inteligência Artificial
 
 - [Perplexidade](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/nlp/perplexity.ipynb)
 
+- [NumPy](https://nbviewer.jupyter.org/github/yurimalheiros/ai-notebooks/blob/master/basic/numpy.ipynb)
 
 ## English version
 
